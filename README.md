@@ -11,7 +11,7 @@ WS 22 - Arrays
  
  -------------------------------------------------------
 
-1. Erstellt ein ```int Array``` der größe 150. Füllt jeden Wert im Array mit dem Wert ```42``` 
+1. Erstellt ein ```int array``` der größe 150. Füllt jeden Wert im Array mit dem Wert ```42``` 
 
 -------------------------------------------------------
 
