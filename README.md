@@ -8,6 +8,8 @@ WS 22 - Arrays
 
 
  💡 Tipp: Mit ```Arrays.toString(irgendeinArray)``` lässt sich ein schöner ```String``` des Arrays erzeugen den man in der Konsole ausgeben kann
+ 
+ -------------------------------------------------------
 
 1. Erstellt ein ```int Array``` der größe 150. Füllt jeden Wert im Array mit dem Wert ```42``` 
 
